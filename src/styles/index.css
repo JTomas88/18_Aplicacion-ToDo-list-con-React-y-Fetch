@@ -1,0 +1,20 @@
+.principal{
+    border: 1px solid black;
+    width: 100vh;
+    height: 100vh;
+    background-color: blanchedalmond;
+    flex-direction: column;
+}
+
+h1{
+  display: flex;
+  align-items: center;
+}
+
+
+.botonEliminarTodo{
+  display: flex !important;
+  align-items: start !important;
+  justify-content: start !important;
+}
+
